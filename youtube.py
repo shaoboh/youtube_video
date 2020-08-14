@@ -1,6 +1,6 @@
 # Version: V1.0.0
 # Brief: tool to scrapy youtube video
-# Author: ytouch
+# Author: James_Bobo
 # ModifyUpdate:
 # # VersionUpdateInfo:
 
